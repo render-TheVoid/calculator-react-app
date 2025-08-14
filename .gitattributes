@@ -3,5 +3,3 @@
 /public/** linguist-vendored
 *.html linguist-vendored
 *.css linguist-vendored
-*.jsx linguist-language=JSX
-*.js linguist-language=JSX
