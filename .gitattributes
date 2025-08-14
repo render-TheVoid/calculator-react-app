@@ -1,5 +1,16 @@
+# Force React files as JSX
+*.js linguist-language=JSX
+*.jsx linguist-language=JSX
+
+# Ignore CSS, HTML, and other vendored/public files
+*.css linguist-vendored
+*.html linguist-vendored
+/public/** linguist-vendored
 /dist/** linguist-vendored
 /node_modules/** linguist-vendored
-/public/** linguist-vendored
-*.html linguist-vendored
-*.css linguist-vendored
+*.map linguist-vendored
+
+# Optional: ignore config and lock files
+package-lock.json linguist-vendored
+yarn.lock linguist-vendored
+vite.config.js linguist-vendored
