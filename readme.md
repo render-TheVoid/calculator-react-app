@@ -14,4 +14,3 @@ a calculator that judges you harder than your parents, teachers, and the interne
 - basic arithmetic, in case you forgot how to add  
 - AC / delete buttons, for when you panic  
 - ultra-savage operator error messages, because you deserve it  
-- chaotic gen z brainrot vibes, for maximum humiliation
